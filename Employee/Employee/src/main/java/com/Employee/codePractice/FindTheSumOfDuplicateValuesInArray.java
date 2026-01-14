@@ -1,7 +1,6 @@
-package com.Employee.collectionPractice;
+package com.Employee.codePractice;
 
 import java.util.*;
-import java.util.stream.*;
 
 public class FindTheSumOfDuplicateValuesInArray {
     public static void main(String[] args) {

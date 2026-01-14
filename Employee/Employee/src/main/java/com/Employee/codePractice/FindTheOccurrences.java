@@ -1,4 +1,4 @@
-package com.Employee.collectionPractice;
+package com.Employee.codePractice;
 
 public class FindTheOccurrences {
     //Write the code to get the occurances of a list of integers.

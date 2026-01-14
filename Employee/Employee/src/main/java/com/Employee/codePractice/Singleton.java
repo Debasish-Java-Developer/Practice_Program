@@ -1,4 +1,4 @@
-package com.Employee.collectionPractice;
+package com.Employee.codePractice;
 
 public class Singleton {
     private static Singleton instance = new Singleton();

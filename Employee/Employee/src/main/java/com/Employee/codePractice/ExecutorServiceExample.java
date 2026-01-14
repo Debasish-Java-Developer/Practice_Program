@@ -1,4 +1,4 @@
-package com.Employee.collectionPractice;
+package com.Employee.codePractice;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

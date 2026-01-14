@@ -1,10 +1,6 @@
-package com.Employee.collectionPractice;
-
-import java.util.List;
-import java.util.stream.Collectors;
+package com.Employee.codePractice;
 
 import java.util.*;
-import java.util.stream.*;
 
 public class UniqueWordsUsingStream {
 

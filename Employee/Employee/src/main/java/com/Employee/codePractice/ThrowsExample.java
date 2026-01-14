@@ -1,4 +1,4 @@
-package com.Employee.collectionPractice;
+package com.Employee.codePractice;
 
 public class ThrowsExample {
     static void readFile() throws Exception {

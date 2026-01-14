@@ -1,4 +1,4 @@
-package com.Employee.collectionPractice;
+package com.Employee.codePractice;
 
 public class FindArmstrongNumber {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.Employee.collectionPractice;
+package com.Employee.codePractice;
 
 public class CompareEqualsAndDoubleEquals {
     public static void main(String[] args) {
